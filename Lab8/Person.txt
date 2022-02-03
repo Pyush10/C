@@ -1,0 +1,3 @@
+Name=Kamal
+Address=Lalitpur
+Class=0

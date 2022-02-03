@@ -1,0 +1,17 @@
+Welcome to library management system
+
+ALERT!!! ALERT!!! ALERT!!! ALERT!!! ALERT!!!
+
+Users are suggested to read this before using program.
+
+1.The default username and password at the begining are user and pass respectively.
+  Later user can change according to need.
+
+2.Under (display/delete/search/modify) book options if file"libraryrecords" doesn't exist 
+  then program will try to open the file which won't be available so program will terminate.
+  You are expected to
+  
+  A.Either open add book option that will create file"libraryrecords" then you can procced to program.
+
+  B.OR download file"libraryrecords" available to you with exection file.
+s

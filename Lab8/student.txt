@@ -1,0 +1,4 @@
+Name=Hari
+Address=Kathmandu
+Id=5
+Class=3

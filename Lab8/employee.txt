@@ -1,0 +1,3 @@
+Name=Ram
+Address=Janakpur
+ID=5

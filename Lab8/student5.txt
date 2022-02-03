@@ -1,0 +1,16 @@
+Name=Hari
+Address=Janakpur
+Id=6
+Class=5Name=Ram
+Address=Jhapa
+Id=7
+Class=5Name=Abhinash
+Address=Kanchanpur
+Id=8
+Class=5Name=Sisan
+Address=Illam
+Id=9
+Class=5Name=Janak
+Address=Dhangadi
+Id=7
+Class=4

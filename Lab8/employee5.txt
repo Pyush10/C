@@ -1,0 +1,11 @@
+Name=Hari
+Address=Kathmandu
+ID=1Name=Shyam
+Address=Janakpur
+ID=2Name=Sita
+Address=Rampur
+ID=5Name=Gita
+Address=kanchanpur
+ID=8Name=Shyamal
+Address=Dhangadi
+ID=8
